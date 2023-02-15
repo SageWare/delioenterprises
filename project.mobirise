@@ -57,7 +57,7 @@
     ],
     "imageResize": false,
     "favicon": "@PROJECT_PATH@/assets/images/favicon.png",
-    "mbrsiteDomain": "csgm1qkjum",
+    "mbrsiteDomain": "t8pygpnljy",
     "robotsSwitcher": false,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
@@ -69,7 +69,8 @@
     "screenshot": "screenshot.png",
     "publishChangesOnly": false,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "witsec-mailform": false
+    "witsec-mailform": false,
+    "usedWebp": false
   },
   "pages": {
     "about.html": {
@@ -3726,6 +3727,29 @@
                 "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Text\" class=\"btn display-7 btn-warning-outline\">Buy now!</a>",
                 "image": "@PROJECT_PATH@/assets/images/company-octobersage.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/company-octobersage-800x800.jpg",
+                "customStyle5": "display-5",
+                "customStyle7": "display-7",
+                "customStyleSale": "display-7",
+                "customStyleTags": "display-4",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "tags": "Publishing",
+                "bestSeller": false,
+                "onSale": false,
+                "oldPrice": false,
+                "itemTitle": "<b>RivetHAUS</b>",
+                "itemDescription": "<p><b>RivetHAUS</b>&nbsp;is a new kind of apparel and accessories company. Founded in February 2023, RivetHAUS is catering its fashion designs to popular subcultures and internet aesthetics.</p><p><br></p><p><b>Website:</b></p><p><a href=\"https://gabbyandmin.com/\" class=\"text-primary\" target=\"_blank\"><b>https://rivethaus.com/</b></a></p><p><a href=\"https://gabbyandmin.com/\" class=\"text-primary\" target=\"_blank\"><b><br></b></a></p><p><b>Connect with Gabby &amp; Min:</b></p><p><b><a href=\"https://www.facebook.com/rivethaus\" class=\"text-primary\" target=\"_blank\"><b>Facebook </b></a>| <a href=\"https://www.instagram.com/rivethaus/\" class=\"text-primary\" target=\"_blank\"><b>Instagram </b></a>|&nbsp;<a href=\"https://twitter.com/gabbyandmin\" class=\"text-primary\" target=\"_blank\"><b></b></a><b><a href=\"https://twitter.com/rivethaus\" class=\"text-primary\" target=\"_blank\"><b>Twitter</b></a><a href=\"https://twitter.com/rivethaus\" class=\"text-primary\" target=\"_blank\"> </a></b>| <a href=\"https://www.linkedin.com/company/rivethaus\" class=\"text-primary\" target=\"_blank\"><b>LinkedIn</b></a></b></p><p>\n</p>",
+                "itemPriceTitle": "From: ",
+                "itemPrice": "",
+                "oldPriceValue": "$184",
+                "sale": "-50%",
+                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Text\" class=\"btn display-7 btn-warning-outline\">Buy now!</a>",
+                "image": "@PROJECT_PATH@/assets/images/company-rivethaus.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/company-rivethaus-800x800.jpg",
                 "customStyle5": "display-5",
                 "customStyle7": "display-7",
                 "customStyleSale": "display-7",
