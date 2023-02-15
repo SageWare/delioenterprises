@@ -3663,7 +3663,7 @@
                 "customStyleSale": "display-7",
                 "customStyleTags": "display-4",
                 "caption": "Type caption here",
-                "active": false,
+                "active": true,
                 "alt": "",
                 "title": ""
               },
@@ -3709,7 +3709,7 @@
                 "customStyleSale": "display-7",
                 "customStyleTags": "display-4",
                 "caption": "Type caption here",
-                "active": true,
+                "active": false,
                 "alt": "",
                 "title": ""
               },
@@ -3742,7 +3742,7 @@
                 "onSale": false,
                 "oldPrice": false,
                 "itemTitle": "<b>RivetHAUS</b>",
-                "itemDescription": "<p><b>RivetHAUS</b>&nbsp;is a new kind of apparel and accessories company. Founded in February 2023, RivetHAUS is catering its fashion designs to popular subcultures and internet aesthetics.</p><p><br></p><p><b>Website:</b></p><p><a href=\"https://gabbyandmin.com/\" class=\"text-primary\" target=\"_blank\"><b>https://rivethaus.com/</b></a></p><p><a href=\"https://gabbyandmin.com/\" class=\"text-primary\" target=\"_blank\"><b><br></b></a></p><p><b>Connect with Gabby &amp; Min:</b></p><p><b><a href=\"https://www.facebook.com/rivethaus\" class=\"text-primary\" target=\"_blank\"><b>Facebook </b></a>| <a href=\"https://www.instagram.com/rivethaus/\" class=\"text-primary\" target=\"_blank\"><b>Instagram </b></a>|&nbsp;<a href=\"https://twitter.com/gabbyandmin\" class=\"text-primary\" target=\"_blank\"><b></b></a><b><a href=\"https://twitter.com/rivethaus\" class=\"text-primary\" target=\"_blank\"><b>Twitter</b></a><a href=\"https://twitter.com/rivethaus\" class=\"text-primary\" target=\"_blank\"> </a></b>| <a href=\"https://www.linkedin.com/company/rivethaus\" class=\"text-primary\" target=\"_blank\"><b>LinkedIn</b></a></b></p><p>\n</p>",
+                "itemDescription": "<p><b>RivetHAUS</b>&nbsp;is a new kind of apparel and accessories company. Founded in February 2023, RivetHAUS is catering its fashion designs to popular subcultures and internet aesthetics.</p><p><br></p><p><b>Website:</b></p><p><a href=\"https://rivethaus.com/\" class=\"text-primary\" target=\"_blank\"><b>https://rivethaus.com/</b></a></p><p><a href=\"https://gabbyandmin.com/\" class=\"text-primary\" target=\"_blank\"><b><br></b></a></p><p><b>Connect with RivetHAUS:</b></p><p><b><a href=\"https://www.facebook.com/rivethaus\" class=\"text-primary\" target=\"_blank\"><b>Facebook </b></a>| <a href=\"https://www.instagram.com/rivethaus/\" class=\"text-primary\" target=\"_blank\"><b>Instagram </b></a>|&nbsp;<a href=\"https://twitter.com/gabbyandmin\" class=\"text-primary\" target=\"_blank\"><b></b></a><b><a href=\"https://twitter.com/rivethaus\" class=\"text-primary\" target=\"_blank\"><b>Twitter</b></a><a href=\"https://twitter.com/rivethaus\" class=\"text-primary\" target=\"_blank\"> </a></b>| <a href=\"https://www.linkedin.com/company/rivethaus\" class=\"text-primary\" target=\"_blank\"><b>LinkedIn</b></a></b></p><p>\n</p>",
                 "itemPriceTitle": "From: ",
                 "itemPrice": "",
                 "oldPriceValue": "$184",
