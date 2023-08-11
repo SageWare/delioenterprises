@@ -93,7 +93,7 @@ body {
   background-color: #0251e4 !important;
 }
 .bg-danger {
-  background-color: #feb062 !important;
+  background-color: #c1c1c1 !important;
 }
 .btn-primary,
 .btn-primary:active,
@@ -198,22 +198,22 @@ body {
 .btn-danger,
 .btn-danger:active,
 .btn-danger.active {
-  background-color: #feb062 !important;
-  border-color: #feb062 !important;
+  background-color: #c1c1c1 !important;
+  border-color: #c1c1c1 !important;
   color: #ffffff !important;
 }
 .btn-danger:hover,
 .btn-danger:focus,
 .btn-danger.focus {
   color: #ffffff !important;
-  background-color: #fe8a16 !important;
-  border-color: #fe8a16 !important;
+  background-color: #9b9b9b !important;
+  border-color: #9b9b9b !important;
 }
 .btn-danger.disabled,
 .btn-danger:disabled {
   color: #ffffff !important;
-  background-color: #fe8a16 !important;
-  border-color: #fe8a16 !important;
+  background-color: #9b9b9b !important;
+  border-color: #9b9b9b !important;
 }
 .btn-white {
   color: #333333 !important;
@@ -362,21 +362,21 @@ body {
 .btn-danger-outline:active,
 .btn-danger-outline.active {
   background: none;
-  border-color: #feb062;
-  color: #feb062 !important;
+  border-color: #c1c1c1;
+  color: #c1c1c1 !important;
 }
 .btn-danger-outline:hover,
 .btn-danger-outline:focus,
 .btn-danger-outline.focus {
   color: #ffffff !important;
-  background-color: #feb062;
-  border-color: #feb062;
+  background-color: #c1c1c1;
+  border-color: #c1c1c1;
 }
 .btn-danger-outline.disabled,
 .btn-danger-outline:disabled {
   color: #ffffff !important;
-  background-color: #feb062 !important;
-  border-color: #feb062 !important;
+  background-color: #c1c1c1 !important;
+  border-color: #c1c1c1 !important;
 }
 .btn-black-outline,
 .btn-black-outline:active,
@@ -428,7 +428,7 @@ body {
   color: #0251e4 !important;
 }
 .text-danger {
-  color: #feb062 !important;
+  color: #c1c1c1 !important;
 }
 .text-white {
   color: #ffffff !important;
@@ -462,7 +462,7 @@ a.text-warning:focus {
 }
 a.text-danger:hover,
 a.text-danger:focus {
-  color: #fe962f !important;
+  color: #a8a8a8 !important;
 }
 a.text-white:hover,
 a.text-white:focus {
@@ -482,7 +482,7 @@ a.text-black:focus {
   background-color: #0251e4;
 }
 .alert-danger {
-  background-color: #feb062;
+  background-color: #c1c1c1;
 }
 .mbr-section-btn a.btn:not(.btn-form) {
   border-radius: 100px;
